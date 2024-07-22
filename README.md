@@ -1,2 +1,29 @@
-# Coffee-Shop-Sales
-Coffee Shop Sales Analysis Power BI project analyzing coffee shop sales across multiple outlets. Features include monthly/weekly sales tracking, top ten products, weekend vs. weekday sales, and daily sales. Gain insights into trends, peak periods, and product popularity. Easy setup and customizable for your data.
+**Coffee Shop Sales Analysis**
+This Power BI project provides an in-depth analysis of a coffee shop's sales data. The project includes detailed visualizations and insights to help understand sales trends and performance across multiple outlets. Key features of this project are:
+
+**Features**
+
+**Monthly and Weekly Sales Analysis:**
+
+1.Track and visualize sales trends on a monthly and weekly basis.
+2.Identify peak sales periods and trends over time.
+
+**Top Ten Products:**
+
+1.Determine and visualize the top ten best-selling products.
+2.Gain insights into product popularity and customer preferences.
+
+**Sales Comparison - Weekends vs. Weekdays:**
+
+1.Analyze and compare sales performance on weekends and weekdays.
+2.Identify differences in customer behavior and sales patterns.
+
+**Daily Sales Tracking:**
+
+Monitor and visualize sales performance on a daily basis.
+Understand daily fluctuations and identify patterns.
+
+**Multiple Outlet Analysis:**
+
+Compare sales data across multiple coffee shop locations.
+Identify top-performing outlets and areas for improvement.
